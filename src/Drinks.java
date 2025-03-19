@@ -22,6 +22,4 @@ enum Drinks {
     public String toString() {
         return drinkName + " - " + addToPizzaPrice;
     }
-
-    
 }

@@ -14,7 +14,7 @@ enum PizzaSelection{
         this.pizzaToppings = toppings;
         this.price = price;
     }
-
+    
     public String getPizzaName() {
         return pizzaName;
     }

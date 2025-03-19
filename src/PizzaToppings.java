@@ -16,6 +16,7 @@ enum PizzaToppings{
     PARMESAN_CHEESE("Parmesan Cheese", 1);
 
     private final String topping;
+    
     private final double toppingPrice;
 
     PizzaToppings(String topping, double toppingPrice) {
